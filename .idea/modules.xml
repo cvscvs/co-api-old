@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coapi.iml" filepath="$PROJECT_DIR$/.idea/modules/coapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coapi-api.iml" filepath="$PROJECT_DIR$/.idea/modules/coapi-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coapi-api-build.iml" filepath="$PROJECT_DIR$/.idea/modules/coapi-api-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coapi-build.iml" filepath="$PROJECT_DIR$/.idea/modules/coapi-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coapi-impl.iml" filepath="$PROJECT_DIR$/.idea/modules/coapi-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coapi-impl-build.iml" filepath="$PROJECT_DIR$/.idea/modules/coapi-impl-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coapi-stream-api.iml" filepath="$PROJECT_DIR$/.idea/modules/coapi-stream-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coapi-stream-api-build.iml" filepath="$PROJECT_DIR$/.idea/modules/coapi-stream-api-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coapi-stream-impl.iml" filepath="$PROJECT_DIR$/.idea/modules/coapi-stream-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coapi-stream-impl-build.iml" filepath="$PROJECT_DIR$/.idea/modules/coapi-stream-impl-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customer-api.iml" filepath="$PROJECT_DIR$/.idea/modules/customer-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customer-api-build.iml" filepath="$PROJECT_DIR$/.idea/modules/customer-api-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customer-impl.iml" filepath="$PROJECT_DIR$/.idea/modules/customer-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customer-impl-build.iml" filepath="$PROJECT_DIR$/.idea/modules/customer-impl-build.iml" />
+    </modules>
+  </component>
+</project>

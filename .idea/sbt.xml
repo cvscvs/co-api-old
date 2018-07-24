@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/coapi-api" />
+            <option value="$PROJECT_DIR$/coapi-api/project" />
+            <option value="$PROJECT_DIR$/coapi-impl" />
+            <option value="$PROJECT_DIR$/coapi-impl/project" />
+            <option value="$PROJECT_DIR$/coapi-stream-api" />
+            <option value="$PROJECT_DIR$/coapi-stream-api/project" />
+            <option value="$PROJECT_DIR$/coapi-stream-impl" />
+            <option value="$PROJECT_DIR$/coapi-stream-impl/project" />
+            <option value="$PROJECT_DIR$/customer-api" />
+            <option value="$PROJECT_DIR$/customer-api/project" />
+            <option value="$PROJECT_DIR$/customer-impl" />
+            <option value="$PROJECT_DIR$/customer-impl/project" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.1.5" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

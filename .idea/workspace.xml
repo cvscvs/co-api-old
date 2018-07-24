@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c772f72-7540-4787-b06e-14aa810aa4a3" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <ignored path="$PROJECT_DIR$/coapi-api/target/" />
+    <ignored path="$PROJECT_DIR$/coapi-stream-impl/target/" />
+    <ignored path="$PROJECT_DIR$/coapi-impl/target/" />
+    <ignored path="$PROJECT_DIR$/coapi-stream-api/target/" />
+    <ignored path="$PROJECT_DIR$/coapi-api/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/coapi-api/project/target/" />
+    <ignored path="$PROJECT_DIR$/coapi-impl/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/coapi-impl/project/target/" />
+    <ignored path="$PROJECT_DIR$/coapi-stream-api/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/coapi-stream-api/project/target/" />
+    <ignored path="$PROJECT_DIR$/coapi-stream-impl/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/coapi-stream-impl/project/target/" />
+    <ignored path="$PROJECT_DIR$/customer-api/target/" />
+    <ignored path="$PROJECT_DIR$/customer-impl/target/" />
+    <ignored path="$PROJECT_DIR$/customer-api/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/customer-api/project/target/" />
+    <ignored path="$PROJECT_DIR$/customer-impl/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/customer-impl/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="coapi" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CoapiService.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coapi-api/src/main/scala/com/co/coapi/api/CoapiService.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoapiServiceImpl.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/coapi-impl/src/main/scala/com/co/coapi/impl/CoapiServiceImpl.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+              <folding>
+                <element signature="e#27#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoapiLoader.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coapi-impl/src/main/scala/com/co/coapi/impl/CoapiLoader.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
+              <folding>
+                <element signature="e#27#81#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoapiStreamService.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coapi-stream-api/src/main/scala/com/co/coapistream/api/CoapiStreamService.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+              <folding>
+                <element signature="e#32#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoapiEntity.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coapi-impl/src/main/scala/com/co/coapi/impl/CoapiEntity.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1950">
+              <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoapiStreamServiceImpl.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coapi-stream-impl/src/main/scala/com/co/coapistream/impl/CoapiStreamServiceImpl.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="14" column="51" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="51" />
+              <folding>
+                <element signature="e#33#84#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerService.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/customer-api/src/main/scala/com/co/customer/api/CustomerService.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+              <folding>
+                <element signature="e#29#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerServiceImpl.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/customer-impl/src/main/scala/com/co/customer/impl/CustomerServiceImpl.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+              <folding>
+                <element signature="e#30#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerLoader.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/customer-impl/src/main/scala/com/co/customer/impl/CustomerLoader.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#30#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerEntity.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/customer-impl/src/main/scala/com/co/customer/impl/CustomerEntity.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../ws_e-labo/elabo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_e-labo/play-scala-rest-api-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_scala/play-scala-starter-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_work_api/play-scala-fileupload-example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/coapi-stream-api/src/main/scala/com/co/coapistream/api/CoapiStreamService.scala" />
+        <option value="$PROJECT_DIR$/customer-impl/src/main/scala/com/co/customer/impl/CustomerLoader.scala" />
+        <option value="$PROJECT_DIR$/customer-impl/src/main/resources/application.conf" />
+        <option value="$PROJECT_DIR$/customer-impl/src/main/scala/com/co/customer/impl/CustomerServiceImpl.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/coapi-impl/src/main/scala/com/co/coapi/impl/CoapiLoader.scala" />
+        <option value="$PROJECT_DIR$/customer-api/src/main/scala/com/co/customer/api/CustomerService.scala" />
+        <option value="$PROJECT_DIR$/coapi-api/src/main/scala/com/co/coapi/api/CoapiService.scala" />
+        <option value="$PROJECT_DIR$/customer-impl/src/main/scala/com/co/customer/impl/CustomerEntity.scala" />
+        <option value="$PROJECT_DIR$/coapi-stream-impl/src/main/scala/com/co/coapistream/impl/CoapiStreamServiceImpl.scala" />
+        <option value="$PROJECT_DIR$/coapi-impl/src/main/scala/com/co/coapi/impl/CoapiServiceImpl.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-5" />
+    <option name="y" value="13" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-stream-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-stream-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-stream-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-stream-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-stream-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-stream-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-stream-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-stream-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-stream-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-stream-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="coapi-stream-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="customer-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="customer-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="customer-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="customer-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="customer-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="customer-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="customer-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="customer-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="customer-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="customer-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-api" type="462c0819:PsiDirectoryNode" />
+              <item name="customer-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ws_dist" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\ws_lagom\co-api\customer-impl" />
+      <recent name="D:\workspace\ws_lagom\co-api\customer-api" />
+      <recent name="D:\workspace\ws_lagom\co-api" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="coapi" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="customer-api" />
+                <option name="path" value="$PROJECT_DIR$/customer-api" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="coapi-impl" />
+                <option name="path" value="$PROJECT_DIR$/coapi-impl" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="coapi-stream-impl" />
+                <option name="path" value="$PROJECT_DIR$/coapi-stream-impl" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="coapi-api" />
+                <option name="path" value="$PROJECT_DIR$/coapi-api" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="coapi-stream-api" />
+                <option name="path" value="$PROJECT_DIR$/coapi-stream-api" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="coapi" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="customer-impl" />
+                <option name="path" value="$PROJECT_DIR$/customer-impl" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="coapi-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="coapi-api-build" />
+                <option name="path" value="$PROJECT_DIR$/coapi-api/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="coapi-impl-build" />
+                <option name="path" value="$PROJECT_DIR$/coapi-impl/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="coapi-stream-api-build" />
+                <option name="path" value="$PROJECT_DIR$/coapi-stream-api/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="coapi-stream-impl-build" />
+                <option name="path" value="$PROJECT_DIR$/coapi-stream-impl/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="customer-api-build" />
+                <option name="path" value="$PROJECT_DIR$/customer-api/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="customer-impl-build" />
+                <option name="path" value="$PROJECT_DIR$/customer-impl/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4597175993804" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1359315473" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3858275937" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="985455187" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="C:/ws_microservice/capi" value="PREVIEW" />
+        <entry key="C:/ws_microservice/lagom-scala-sbt" value="PREVIEW" />
+        <entry key="C:/ws_scalajs/scalaWUI" value="PREVIEW" />
+        <entry key="C:/ws_scalajs/scalajs-boilerplate" value="PREVIEW" />
+        <entry key="C:/ws_scalajs/scalajs-react-boilerplate" value="PREVIEW" />
+        <entry key="C:/ws_scalajs/scalajs-spa-tutorial" value="PREVIEW" />
+        <entry key="C:/ws_scalajs/ws_bank_partner/activator-akka-distributed-workers" value="PREVIEW" />
+        <entry key="C:/ws_scalajs/ws_bank_partner/akka-cluster-orchestration-example" value="PREVIEW" />
+        <entry key="C:/ws_scalajs/ws_bank_partner/akka-http-microservice" value="PREVIEW" />
+        <entry key="C:/ws_scalajs/ws_bank_partner/akka-in-action" value="PREVIEW" />
+        <entry key="C:/ws_scalajs/ws_bank_partner/cats" value="PREVIEW" />
+        <entry key="C:/ws_scalajs/ws_bank_partner/hello-reactive-tooling" value="PREVIEW" />
+        <entry key="C:/ws_scalajs/ws_bank_partner/ibp" value="PREVIEW" />
+        <entry key="C:/ws_scalajs/ws_bank_partner/ibp-api" value="PREVIEW" />
+        <entry key="C:/ws_scalajs/ws_bank_partner/lagom-java-sbt-chirper-example" value="PREVIEW" />
+        <entry key="C:/ws_scalajs/ws_bank_partner/lagom-play-spike.g8" value="PREVIEW" />
+        <entry key="C:/ws_scalajs/ws_bank_partner/lagom-service-locator-zookeeper" value="PREVIEW" />
+        <entry key="C:/ws_scalajs/ws_bank_partner/online-auction-scala" value="PREVIEW" />
+        <entry key="C:/ws_scalajs/ws_bank_partner/play-scala-starter-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_cogetel_api/activator-lagom-cargotracker" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_cogetel_api/akka-http-microservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_cogetel_api/akka-http-quickstart-scala.g8" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_cogetel_api/akka-in-action" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_cogetel_api/capi-gateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_cogetel_api/cogetel-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_cogetel_api/customer-dao-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_cogetel_api/demo-akka-persistence-jdbc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_cogetel_api/scala-microservices-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_cogetel_api/uam-api-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_dist" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_dist/elabo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_e-labo/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_e-labo/play-sb-admin2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_e-labo/play-scala-adminlte" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_e-labo/play-swagger" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_labo/elabo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../activator-lagom-scala-chirper" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../kafka-web-console" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lagom-scala-sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../online-auction-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_microservice_eclipse/scalajs-spa-tutorial" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_ms/akka-cqrs-es-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_ms/akka-ddd-cqrs-es-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_ms/akka-http-actor-per-request" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_ms/akka-microservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_ms/customer-microservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_ms/ms-customer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_ms/spray-actor-per-request" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_scala_js/hello" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_work_api/ilabo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_work_api/swagger-samples/scala/scala-play2.4" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws_work_api/uamapi" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c772f72-7540-4787-b06e-14aa810aa4a3" name="Default" comment="" />
+      <created>1532404578805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532404578805</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="JSON Formatter" order="7" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="sbt" order="3" weight="0.32980332" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="JSON Viewer" order="3" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Project Explorer" order="2" />
+      <window_info id="Job Explorer" order="2" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Console" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="DB Browser" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3290469" />
+      <window_info active="true" anchor="bottom" id="sbt-shell-toolwindow" order="7" visible="true" weight="0.24019608" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.53594774" />
+      <window_info anchor="right" id="Gradle" order="3" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.1503268" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/coapi-impl/src/main/scala/com/co/coapi/impl/CoapiEntity.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-stream-impl/src/main/scala/com/co/coapistream/impl/CoapiStreamServiceImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="51" />
+          <folding>
+            <element signature="e#33#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-api/src/main/scala/com/co/customer/api/CustomerService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="e#29#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-impl/src/main/scala/com/co/customer/impl/CustomerServiceImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="e#30#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-impl/src/main/scala/com/co/customer/impl/CustomerLoader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#30#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-impl/src/main/scala/com/co/customer/impl/CustomerEntity.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-impl/src/main/scala/com/co/coapi/impl/CoapiServiceImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="e#27#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-api/src/main/scala/com/co/coapi/api/CoapiService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-impl/src/main/scala/com/co/coapi/impl/CoapiServiceImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="e#27#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-impl/src/main/scala/com/co/coapi/impl/CoapiLoader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#27#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-stream-api/src/main/scala/com/co/coapistream/api/CoapiStreamService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="34" />
+          <folding>
+            <element signature="e#32#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-impl/src/main/scala/com/co/coapi/impl/CoapiEntity.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2190">
+          <caret line="73" column="21" lean-forward="true" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-stream-impl/src/main/scala/com/co/coapistream/impl/CoapiStreamServiceImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="e#33#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-api/src/main/scala/com/co/customer/api/CustomerService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="e#29#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-impl/src/main/scala/com/co/customer/impl/CustomerServiceImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#30#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-impl/src/main/scala/com/co/customer/impl/CustomerEntity.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-impl/src/main/scala/com/co/customer/impl/CustomerLoader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#30#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-api/src/main/scala/com/co/coapi/api/CoapiService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-impl/src/main/scala/com/co/coapi/impl/CoapiServiceImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-stream-api/src/main/scala/com/co/coapistream/api/CoapiStreamService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="e#32#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-stream-impl/src/main/scala/com/co/coapistream/impl/CoapiStreamServiceImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-impl/src/main/scala/com/co/coapi/impl/CoapiEntity.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2190">
+          <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-impl/src/main/scala/com/co/customer/impl/CustomerServiceImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#30#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-stream-impl/src/main/scala/com/co/coapistream/impl/CoapiStreamLoader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#33#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-impl/src/main/scala/com/co/customer/impl/CustomerLoader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#30#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-api/src/main/scala/com/co/customer/api/CustomerService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="e#29#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-api/src/main/scala/com/co/coapi/api/CoapiService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-impl/src/main/scala/com/co/coapi/impl/CoapiServiceImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-api/src/main/scala/com/co/coapi/api/CoapiService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="85" column="5" lean-forward="true" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-impl/src/main/scala/com/co/coapi/impl/CoapiServiceImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.lightbend.lagom/lagom-scaladsl-api_2.12/srcs/lagom-scaladsl-api_2.12-1.4.7-sources.jar!/com/lightbend/lagom/scaladsl/api/Descriptor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1320">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbt.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/build.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.lightbend.lagom/lagom-scaladsl-api_2.12/srcs/lagom-scaladsl-api_2.12-1.4.7-sources.jar!/com/lightbend/lagom/scaladsl/api/Service.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-stream-impl/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-impl/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.sbtopts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-stream-impl/src/main/scala/com/co/coapistream/impl/CoapiStreamLoader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="31" column="62" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="62" />
+          <folding>
+            <element signature="e#33#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-api/src/main/scala/com/co/customer/api/CustomerService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="e#29#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-impl/src/main/scala/com/co/coapi/impl/CoapiEntity.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-impl/src/main/scala/com/co/customer/impl/CustomerEntity.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-impl/src/main/scala/com/co/customer/impl/CustomerLoader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#30#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-impl/src/main/scala/com/co/customer/impl/CustomerServiceImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="e#30#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-api/src/main/scala/com/co/coapi/api/CoapiService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-impl/src/main/scala/com/co/coapi/impl/CoapiLoader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#27#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-stream-api/src/main/scala/com/co/coapistream/api/CoapiStreamService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="e#32#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-stream-impl/src/main/scala/com/co/coapistream/impl/CoapiStreamServiceImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="51" />
+          <folding>
+            <element signature="e#33#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coapi-impl/src/main/scala/com/co/coapi/impl/CoapiServiceImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="e#27#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

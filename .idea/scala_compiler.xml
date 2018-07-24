@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="co-api_1959,co-api_9704,customer-api,coapi-impl,coapi-stream-impl,coapi-api,coapi-stream-api,coapi,customer-impl" />
+  </component>
+</project>
